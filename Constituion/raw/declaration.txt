@@ -1,0 +1,23 @@
+AG_Compound('minecraft:written_book_content'): {4 Entries}
+{
+TAG_List('pages'): [5 TAG_Compound(s)]
+{
+TAG_Compound: {1 Entries}
+{
+TAG_String('raw'): "Constitution\n\nWe, the People are creating a new nation, called The Collective of Peace (TCOP).\nThese guidelines will govern further laws and amendments."
+}
+TAG_Compound: {1 Entries}
+{
+TAG_String('raw'): "Stealing is punishable by jail or house arrest.\nYou may not kill others' pets on purpose. Accidental is fine, but purposeful murder is illegal and is punishable by house arrest or jail."
+}
+TAG_Compound: {1 Entries}
+{
+TAG_String('raw'): "Destroying history or not returning it is ILLEGAL. Punishable by jail or house arrest.\n\nAmendments to this constitution may add, remove, or edit parts, and can be put up to a vote by any citizen that lives or owns a house that they live in, in TCOP."
+}
+TAG_Compound: {1 Entries}
+{
+TAG_String('raw'): "Amendments will be archived in the TCOP Public Library. By making one, you have to use a book, and publish it in the \"Amendments\" chest.\nEX:\nAmendment 1\nBy: Lorem\nIpsum"
+}
+TAG_Compound: {1 Entries}
+{
+TAG_String('raw'): "Signed, Wish and Squirrel."
