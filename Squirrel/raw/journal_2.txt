@@ -1,205 +1,204 @@
-TAG_Compound('minecraft:written_book_content'): {4 Entries}
+AG_Compound('minecraft:written_book_content'): {4 Entries}
 				{
 					TAG_List('pages'): [50 TAG_Compound(s)]
 					{
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 1 11:40 AM 1/19/25\n\nWe are on a tiny island right now as we get ready to set out to find more land to call home. we barely have any food and supplies but we'll manage. \n\nI have a lot of wood, torches, diamonds, iron and more. I think we'll make it."
+							TAG_String('raw'): "  Journal2 of Squirrel \n\n\n  started on 1/19/25\n\n\n       After Signed\n\n it will become property        of TCOP library.\n\n    signed on 1/25/25\n\n   Squirrel Gay Acorns"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "As we set out on the water, we found ancient cities and ships. As I looked to my right, I found a island that was full of supplies. \n\nWe'll be staying here tonight. Noma and Wish are invisible for some reason so I wasn't able to find them, buried myself."
+							TAG_String('raw'): "Day 21 5:24 PM 1/19/25\n\nWish is writing the constitution and laws.\n\nThe punishment seems like a fine or jail\n\nLooks like TCOP will be having a goverment!\n\nI wonder if I'll be like a mayor or smth... I did start this place cause "
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "They have came back to the island and they had found me. I got out of the hole I was in and went to theirs. I am now in the hole with Noma and Wish. Signing off for the night."
+							TAG_String('raw'): "of saying that I would stay here.\n\nI'ma start clearing these trees like I said earlier.\n\nI have offically signed the constituion and read over it. It all looks good!"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 2 11:57 AM 1/19/25\n\nWhen we got out of the hole, it was downpouring. We are wondering if we should stay in for the day or keep venturing. Noma and Wish have decided to stay inside the hole while I go get supplies.\n\nThere is so much wood, we have wood!!"
+							TAG_String('raw'): "Day 22 5:42 PM\n\nWe're buring trees down to get more space!\n\nWe have a lot more space and are just cleaning up now!\n\nI made some shovels so wish and I can get some dirt from the other islands."
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "We're now going back on the boats and venturing.\n\nIt seems we have found a \"ring of islands\" from what Wish said. I'm gonna look on these islands for sheep. We need beds. \n\nI have gotten some wool but had to avoid and kill some creepers."
+							TAG_String('raw'): "Day 23 5:58 PM\n\nWe got enough dirt to patch up everything. \n\nI'm currently working on the chest room so we have more chests.\n\nWish was talking about missing her bird... and it started raining.. then sad music started playing... it's a fuckingg"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "i have died and were broght back to the main island. Good thing Someone teleported me back.\n\nWish and Noma were the only one left with a boat, leaving me. I told them to leave and I would stay. I will continue to journal and explore."
+							TAG_String('raw'): "sign.\n\nI burned and cleaned up more of TCOP!\n\nSo much more space.. we can put more buildings like a store and a trading hub!!\n\nOOO MAYBE EVEN A COMMUNITY CENTER!!!!\n\nI'ma continue building"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 3 Time Unknown\n1/19/25\n\nThis island doesn't look that bad. it has plently trees and maybe some animals to eat. \n\nThere's also a lot of stone so I can get a lot of cobblestone and possibly some iron."
+							TAG_String('raw'): "the chest room.\n\nDay 24 6:16 PM\n\nI'm getting more dirt to patch up stuff with Saam.\n\nDay 25 11:26 PM\n\nthe server went out for awhile so I wasn't able to grind..."
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 4 12:28 AM 1/19/25\n\nI have made a simple house on the island with a bed, chest, crafting table and more.\n\nI'ma try to get more supplies so I live on this island normally.\nI have found a wandering trader and am going to trade."
+							TAG_String('raw'): "I forgot that Minecraft sucked on phone vro... I can't do no expeditions sob...\n\nI'ma try to do stuff but tomorrow is my best bet...\n\nDay 26 11:30 PM\n\nI'ma try to get stuff done."
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "The Trades fucking sucked so I murdered him :3\n\nI have completed my house and still have yet to put all the supplies and everything in it.\n\nI did put a fireplace to make it easier to cook things! I also made a chimney so the smoke could alert someone..."
+							TAG_String('raw'): "I managed to put around 5 chests in the chest building.\n\nThe chest building isn't even really a building.. yet.\n\nIt seems after cleaning up the land, more good mobs spawn. really good!!\n\nI'ma organize the "
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 5 12:48 PM 1/19/25\n\nI'ma go get more supplies like wood and food.\n\nMy laptop shut down because it overheated and the server was down so I didn't get anything done... going to sleep..."
+							TAG_String('raw'): "chests tomorrow so everything can be cleaner!\n\nDay 27 11:47 PM\n\nI'ma work on the chest room more and maybe just fix stuff up\n\nUhm so like wtf. Istfg I just saw someone staring at me. I looked"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 6 1:14 PM 1/19/25\n\nI'ma actually go get supplies so I can actually live.\nI saw a creeper on the island in the middle of the day.\nThe trees are a big disadvantage for me; mobs can live here more.\nTHE FUCKING CREEPER WAS AT MY DOOR"
+							TAG_String('raw'): "away and they just disappeared. No one else in server.\n\nReally eery when in a Minecraft server alone and at night sob\n\nIt's actually way too fuckingg quiet.\n\nI'm gonna sleep and work on more stuff tomorrow"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "I was able to run away from the creeper. I'm now getting more wood and looking for iron.\nTried to fight the creeper but it blew up, I'm ok but now there's a huge hole in the ground... fuck creepers..\nI was able to get 2 pieces of iron and 30 of cobblestone"
+							TAG_String('raw'): "Day 28 12:01 AM\n\nNoma's account was locked so she is using alt rn\n\nI put some stuff in the chests.\n\nShowing noma around TCOP rn!! \n\nShe's currently reading"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 7 1:24 PM 1/19/25\n\nToday I'm going to go mineing. I need more iron, cobblestone, coal and hopefully diamonds.\n\nI found a underwater cave and there's a lot of coal!\n\nWish joined the game and she teleported to me! she then just died."
+							TAG_String('raw'): "my first journal!!\n\nDay 19 12:09 AM\n\nI'm still building the chest room and putting more stuff inside.\n\nMaybe I'll go fishing !!!!\n\nSo many dogs around in TCOP, it's a blessing!!"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "On the island, there's a little ridge with a lot of cobblestone and maybe more. I'ma go mineing in it! \n\nI got 14 coal and 24 cobblestone, it'll be enough for now.\n\nI also made the ridge like a boat port cause of how you can boat right in! I think I'm just"
+							TAG_String('raw'): "The chest room structure is finished! Now we need to get more wood and make chests!\n\ngoing eep (in game :3)\n\nDay 30 12:29 AM\n\nUgh, I put up signs for the chests and they look really fucking"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "gonna get more food and cook some of it. I may also go to the other islands in the \"ring of islands\".\n\nI'm talking to wish right now though the chat, she's making a book rn.. I wonder what it's about...\n\nCooked almost all the food I have so now I"
+							TAG_String('raw'): "ugly... I think it's cause it's the same material sob\n\nI'ma make a fishing rod and go fishing!!!!\n\nI got 3 fish and an almost broken pair of boots.. what luck.\n\n"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "have more food to survive off of. \n\nThis island is actually pretty good for food and supplies. \n\nI'm going to sleep and gonna go to the islands in the morning.\n"
+							TAG_String('raw'): "Day 31 12:36 AM\n\nNoma reset the servers so there's anticheat, what a goat!!!\n\nI may go fishing again because fish\n\nNoma said the anticheat is kinda ass but it's good enough.\n\nStarted to rain, should "
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 8 1:40 PM 1/19/25\n\nI woke up and grabbed the supplies I needed to go to the other islands. When I started to walk down the stairs, Wish just teleported out of no where and said:\n\n\"it's a gift\"\nand gave me the book she had wrote."
+							TAG_String('raw'): "be good on the wheat.\n\nI cut down the bamboo so it's not as tall anymore.\n\nI gave it as a nice gift to wish... hahaha 2 stacks of bamboo :33\n\nDay 32 12:46 PM\n\nRain stopped so that's good.. don't want any"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "It was a book called \"how to get rich\" and it just told me how to get rich from random structures. It has the cords to like a ship.. might have to check it out soon.\n\nIg she made a companay called BookCraft and makes books for this server. Pretty nice!"
+							TAG_String('raw'): "mobs trying to kill or explode things lmfao\n\nI wonder what to do.. it's boring without wish tbh..\n\nThere's pillagers out in the water... very strange.\n\nWe need to get more torches cause bad mobs spawn and stay "
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "When I was reading the book, she popped up out of now where again.\n\nShe asked if she could read mu journal. I gave her my journal so she could read it.\n\nAfter Wish read it, she just said:\n\"Amazing\",\n\"and off to another planet i go\","
+							TAG_String('raw'): "too much.\n\nDay 33 12:59 AM\n\nNoma changed the address to: \nminecraft.freakybob.site\n!!!\n\nI'ma go plant some trees.\n\nI just got teleported to a weird location and"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "\"where am i? nobody knows\"\nand just fucking dies.\n\nWhy does wish do this.\n\nanyway, I'ma make a boat to go to the other islands for supplies.\n\nwelp, I never go to go to the islands.. tho I did get some stuff from wish!!!"
+							TAG_String('raw'): "then back in my house. Only one in server.\n\nI think this server is hauntedd.\n\nIt was Noma, that dumbass. \n\nshe wants me to be first person to go to the nether LMFAO"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "She popped up out of nowhere again and gave me a emerald, some bamboo and seeds.\n\nShe said it was a reward for being on an expedition... yay\n\nIt's already morning sob"
+							TAG_String('raw'): "Day 34 1:10 AM\n\nNoma tried to send to nether but it was just a random location lol\n\nThere's a fox on this island!!!\n\nDay 35 1:21 PM\n\nThere's a lot of free space now because of a lot of trees being"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 9 1:54 PM 1/19/25\n\nI'ma ACTUALLY make a boat and go to the other islands cause I need more food and stuff.\n\nI moved to the island nearest to the one I live on. This island is way bigger and could have better supplies. I hope at least."
+							TAG_String('raw'): "gone.\n\nI am currently planting trees tho :3\n\njust filling in stuff with dirt.. very fun.\n\nNoma left for school.. lonely :c\n\nDay 35 1:35 PM\n\nStarted to downpour"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "This island has a lot of foxes, it's really cute !!\n\nI found a family of pigs.. there was a baby, a mother and father. I didn't kill any of them :3\n\nSo many dogs on this island compared to the dog count on the island I live on. There's only one dog on the "
+							TAG_String('raw'): "again so I'm staying inside with my doggie.\n\nWhen I was outside, I heard a baby zombie and I actually screamed.\n\nJust chilling around in the chest room, it's pretty calm on the island rn.\n\nHeading over to the"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "island I live on.\n\nI really hope there's a village nearby.. I don't think so but I can just hope lmfao\n\nThis island is fucking big.. tho i gotta get home\n\nGot home but I went a different way so my boat is in a different direction. I'll get it"
+							TAG_String('raw'): "library to read cause bored.\n\nTHERE'S A FUCKING ZOMBIE WITH FULL GOLD ARMOR OUTSIDE THE LIBRARY. SAME WITH A CREEPER.\n\nWelp, stuck inside the library sobbb\n\nthunderstorm happen rn, peak fr"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "tomorrow. For now, since it's night, I'll put everything away and go to sleep.\n\nIt seems wish is trying to come over here, so peak!\n"
+							TAG_String('raw'): "Day 36 1:44 AM\n\nWas able to escape back to the house.\n\nThere's way too many mobs here.\n\nThe zombie with the gold armor was still alive so I started fighting. Killed me one time since I had nothing but I came back with a diamond shovel"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 10 2:06 PM 1/19/25\n\nWish reported that she had found a ring of islands but it wasn't the one I was at.\n\nI think today I'ma get my boat and make the island a bit more livable.\n \nI'll prob make a farm too."
+							TAG_String('raw'): "and beat his fucking fatass :33\n\nGonna actually read at the library now. Wish's journals gotta have smth cool!!\n\nI read through the books and I'm def not bored anymore!!\n\nMy fav book/journal wish made is def"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "I'm starting to think Wish is lost. She keeps stating that there's another ring of islands.\n\nI think it's the same one.\nI hope she finds this island so she doesn't go in circles forever sob\n\nI'm making a thing for the wall so I can put the emerald that"
+							TAG_String('raw'): "\"All in due time\"!!!!!\n\nIt's just a longer story with more feeling and personality in it!! :fire:\n\nI think it's night.. gotta eep..\n\nDay 37 1:59 AM\n\nA creeper is at my fucking door like a fucking crackhe@d."
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Wish gave to me so that it's an actual award for me!\n\nI didn't grab my boat so it's still out in the water.\n\nOh great, wish is back, let's see what she has now.\n\nShe asked what's new in my journal so I gave"
+							TAG_String('raw'): "Not a good thing to start the day off with lmfao.\n\nI led it faraway from the main stuff and violated (killed) the creeper :33\n\nThe trees I planted grew! Good!!\n\nThere's a wandering trader ontop of the"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "her my journal to read again.\n\nShe read through it and said \n\"10/10\"\n\"would read again\"\n\nwhen she started to walk downstairs, I went into my chest and gave a diamond in thanks for the supplies and the emerald she gave me"
+							TAG_String('raw'): "chest room. hahaha what a loser\n\nDay 38 2:11 AM \n\nI'ma go to the other islands and get some more supplies :3\n\nI got a LOT of wood!! We should be pretty good now! \n\nI'ma sleep now.. I play"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "She said thanks very peakily and ran down the stairs and out of the house.\n\nA creeper was right there and fucking exploded.\n\nLuckily it didn't hurt my house and only hurt the land outside. I'll patch it later!"
+							TAG_String('raw'): "later :333333\n\nDay 39 9:44 AM\n\nI am really proud of what people have done for here already...\n\nWe have a nether portal now !!!\n\nDay 40 9:49 AM\n\nI need to get some"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Wish actually moved onto the island that I was on now! So now twice as much work can get done!\n\nThe rain just stopped so that's pretty good.\n\nI need to get more iron so I can make a farm...\n\nI got some iron from saam so now I can make"
+							TAG_String('raw'): "supplies from the nether.\n\nGoing into the nether now !!!\n\nI died.\n\nI'ma try to back in with armor!\n\nI survived for a bit with wish but I died..."
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "a bucket!\n\nWe're gonna experiment with making a farm ON the water, I think it'll work fr!"
+							TAG_String('raw'): "I'ma go smelt the gold and put in the community chests\n\nSounds like there's colonists on the other side of the world or nether.. nice!!!\n\nDay 40 10:25 AM\n\nwent mining and found a cave! gonna explore more!"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 11 2:44 PM 1/19/25\n\nSkilled now lives on the island too! I think I'ma name this island...\n\nThe Farm on the water is working! We have wheat being farmed down there so we should have a lot of bread!\nit's night so I'ma get to sleep. Tomorrow, I'ma go"
+							TAG_String('raw'): "It sounds like the other colonists are creating.. rome..????\n\nGoing back to mine !!!!\n\n\nI keep fucking dying SOB\n\nDay 41 10:41 AM\n\ngoing back to the mines :333"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "scavaging again.\n\nDay 12 2:58 PM 1/19/25\n\nI tamed a dog! I now have a best buddy that I have in my house!\n\nI won't be bringing him on my expedition today tho. Can't risk him dying :c\n\nI start my expedition."
+							TAG_String('raw'): "I patched up some spots with dirt to level up TCOP!!\n\nRaining again, Good on the dirt!!\n\nWish made a lighting rod LMFAO, we're watching the lightning rn :33\n\nDay 42 10:55 AM\n\nWish and I are just"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "It's just ocean for miles in this game. I'm starting to think I'm never gonna find a new island.\n\nThe sun has set.. So I can either keep boating or I can stay in the boat for the night.\n\nI'ma keep boating. Hopefully wish or someone sleeps."
+							TAG_String('raw'): "experimenting with a lighting rod!!!\n\nI got killed by the lightning sob\n\nPretty sunset!!!\n\nDay 43 11:13 AM\n\nWe have a new colonist at TCOP!! Great!\n\nGonna go mining and"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "I have found land. It looks like a really small patch but it has a lot of sheep which is good. \n\nThere's a lot of skeleton tho which means I will get shot down if I even get close.\n\nSomeone has slept so it should be safer!"
+							TAG_String('raw'): "fishing maybe \n\nDay 44 11:16 AM\n\nWe're gonna start working on more buildings like stores!!\n\nThe store is looking pretty good. It's pretty deep in the ground tho.\n\nTcop is officially a country!! Woohoo!!!!"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 13 3:11 PM 1/19/25\n\nI am going onto the island to explore it.\n\nThis isn't an island, it's an fields and mountains! \n\nThere's gotta be so much supplies here!\n\nI'ma make a way point and put my cords here to remember!"
+							TAG_String('raw'): "The store will be bigger, It's just the basement :333\n\nCreepee almost blew up the store.. sob..\n\nTomorrow, I'ma get some sand from that one island !\n\nDay 45 11:43 AM\n\nA dog is in the boat"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "The Cords to this place is:\n-2583 70 161\n\nI also did the Wish method of making a huge pillar! So we'll def find this place again.\n\nI'ma go back to the main island so I can put some of these suppiles back."
+							TAG_String('raw'): "Day 46 12:01 PM\n\nDidn't really get to write due to a hacker. \n\nI'ma work on the store and mineing\n\nUranium is going to be banned for buring down the tcop\n\nDay 48 1:21 PM\nI forgot to write cause "
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Yet another good sunset.. This just reminds me of how great minecraft really is..\n\n"
+							TAG_String('raw'): "all the drama that happened lmfao\n\nWish and I are in Rome!! It's actually really pretty!!!\n\nCords R: 2022 75 1983\n\nWe are currently signing the peace treaty.\nWell, today has been a strange day lmfao"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 14 3:22 PM 1/19/25\n\nHeading back to the island now!\n\nOn the way, I found an achient city or smth.\n\nCords are: \n-2096 62 720\n\nit would be very dangerous because there's so many "
+							TAG_String('raw'): "Uranium isn't allowed to come to Rome or to the TCOP nation.\n\nDay 49 1:43 PM\n\nMined for a while and got a lot of cobblestone.\n\nWish is going on a boat to Rome, so I'm taking care of TCOP rn :3\nUranium is saying sorry"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "guardians. I think I have lost my way. I can find my way back tho.\n\nDay 15 3:33 1/19/25\n\nI have def lost my way and I'm in the ocean. I'm using the sun to remember my way. \n\nI'm back at the island!\n\nWish made a library that"
+							TAG_String('raw'): "and is giving all her stuff away. This is extreme guilt tripping lmfao.\n\nDay 50 1:59 PM\n\nSounds like she's getting arrested.\n\nOr not?? Idfk what's happening over there sob\nShe was hit with"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "will be come really good someday! I already got another journal! I'll prob write smth else in it.\n\nDay 16 3:44 PM 1/19/25\n\nWish put her journal as a book in the library!\n\nI can't wait to turn this journal into a book! It will be a hit here!"
+							TAG_String('raw'): "lightning LMFAO\n\nshe's going to jail in Rome now.\n\nAnyway, gonna get some wood\n\nRavine cords:\n-1230 76 1315\n\nCould be good for ores\n\nJust went swimming in"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "I really don't know what to do now.. Maybe a community chest room or like a store?\n\nThat would be pretty cool maybe.. \n\nOnly Wish and I are in this server rn, so we would have to cook fr.\n\nI think wish likes my journal frfr ong!"
+							TAG_String('raw'): "the ravine!!!!\n\nDay 51 2:22 PM\n\nWish is missing all the fun stuff at TCOP rn fr.. I saw bamboo get bigger.. lmfao\n\nI just violated a cow and killed her hahahahah\n\nJust milked 89 times.."
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "It's prob cause I'm just such a peak writer!!\n\nMy laptop overheated and shut off so I don't know if it's been another day. We're just gonna say it's not.\n\nI am currently lagging the fuck out.\n\nOk I'm not as laggy anymore sob"
+							TAG_String('raw'): "cow go BOOM.\n\ngoing mineing for iron !!!!!\n\nThe sunset is so pretty on Minecraft :3333\n\nDay 52 2:31 PM\n\nfound some lapis!!\n\nI FOUND THE DIAMONDS WISH TALKED ABOUT"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 17 4:15 PM 1/19/25\n\nToday seems pretty chill. Wish is just doing random stuff while I'm just chilling around.\n\nI think I'ma make my house actually look like a house and maybe some stairs.. idk\n\nWish and I have decided to fix up the dock and"
+							TAG_String('raw'): "Day 55 3:28 PM\n\nWish and I are gonna explore more islands.\n\nWE FOUND ICE... AND POLAR BEAR wow !!!!!\n\nWish is trying to kidnap one vro.. wtf.\n\nIT GOT MAD AND KILLED ME"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "work on a trading hub!\n\nWish just gave me a pet birdie!!!!! I shall name her patrica!!!\n\nWe also got a good dock done! We're doing pretty good progress!\n\nDay 18 4:29 1/19/25\n\nI'm starting to clear these trees so that we "
+							TAG_String('raw'): "WISH JUST FUCKING KIDNAPPED A CUB VRO WHAT THE FUCK\n\nWe got lost and the bear grew up and ran away..\n\nDay 56 9:18 AM 1/25/25\n\nIt's been a bit since I've played but I'm back in the game yippe!!!"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "can have more space for buildings and to keeps mobs from spawning under the trees.\n\nWish just tamed a parret!!! Her name is Rosemary!! I need to get seeds so I can tame my parret... where ever she went LOL\n\nWish's dog died. And it's"
+							TAG_String('raw'): "I'm in the mines with nomaakip.\n\nNoma created a railroad from her island to tcop! \n\nThat'll def be useful!\n\nTCOP is looking kinda messy so I'ma clean it up a bit.\n\nI'm also gonna remake"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "all my fault. I accedently hit Wish, causing her dog to start attacking me.\n\nI started to run away and when the dog teleported back to Wish, mods started to fight. Wish's dog was fighting me while I was trying to kill the mobs. I couldn't save the doggy :c"
+							TAG_String('raw'): "my house cause it kinda sucks tbh :sob:\n\nThe Railroads are kinda weird since they just float over tcop.. it's ok tho :P\n\nI'm gonna remake my house now lmfao\n\nDay 57 9:36 AM\n\nCurrently taking down"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "Day 19 4:47 PM 1/19/25\n\nI feel really bad for Wish.. I gave her a enchanted rod I found on one of my expeditions.\n\nI think I'ma go on another expedition!\n\nWish and I are going to that island that I found!\n"
+							TAG_String('raw'): "my house. I think I'ma make my house actually look livable..\n\nI'ma go mining for iron cause we really need some.\n\nGot a single piece of gold. great.\n\nDay 58 9:55 AM\n\nI patched up a spot"
 						}
 						TAG_Compound: {1 Entries}
 						{
-							TAG_String('raw'): "I can remember the way back and everything cause of the way the sun and moon moves!\n\nWe found many islands and a ruined portal!\n\nMy laptop overheated sob..\n\nDay 20 5:05 PM 1/19/25\n\nStarting journal 2!!!!!!!!!!!!!!"
+							TAG_String('raw'): "where a creeper exploded.. I fucking hate creepers.\n\nGonna go mining in a new place cause we are out of a lot of ores.\n\nI'm back at the ravine I had found back on day 50. Gonna go mine there !!\nThis journal has came to an end. Journal 3 :33"
 						}
-					}
