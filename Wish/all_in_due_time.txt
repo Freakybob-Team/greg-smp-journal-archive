@@ -1,0 +1,101 @@
+		TAG_Compound: {4 Entries}
+		{
+			TAG_Int('count'): 1
+			TAG_Byte('Slot'): 3
+			TAG_Compound('components'): {1 Entries}
+			{
+				TAG_Compound('minecraft:written_book_content'): {4 Entries}
+				{
+					TAG_List('pages'): [20 TAG_Compound(s)]
+					{
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "All In Due Time: Wish's Journal\nStarted 1/19/2025\n\nAuthor: Wish13\nPublisher: BooksCraft Inc.\n\nSignature:\nWish13\nBooksCraft Inc.\n\n"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "WARNING:\nIf this book came without a signature, this is STOLEN PROPERTY. Please return it to your BooksCraft store."
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "NOTE: We are not responsible for any actions that may occur due to this book."
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Day 1:\n\nHello! This is my new journal. I've been here a while, like 3 days, but I didn't start a journal yet! Squirrel started one when he stayed behind on this island after #Expedition1, so I'm taking inspiration from him!"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "First, Squirrel said he wanted to do an expedition out of the island. I gave him a map, and then he left, stating that \"there were no islands, at least not any far ones.\" I also am planning on building a library to distribute Books and writing tools, so thats cool too!"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "We also decided on a name for this new settlement, \"The Collective of Peace\"\nI got a dog, too! Only took one bone, which I got from Saam. I named her \"Rose 2\", after my old bird named Rose died of a creeper attack on the old land."
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "It's getting dark out, so I'm heading to bed. Wishing Squirrel luck on his journey, though!"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "And... Just as I was about to sleep, Squirrel bursts into chat. \"I found land\"\nHe did it! He did it! Mission success. NOW time to head to sleep, and also wish Minecraft had computers for email."
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Day 2:\nHello! Just woke up. After killing a creeper, Squirrel said that the island he had found was not indeed, an island. It was a land! Huge, apparently. I haven't seen it though."
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Saam said his arms were tired, so I TPed him out of his situation. He thanked me, showed an axolotl he found, and left. Currently building the library, which I will name \"TCOP Public Library\"."
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "A creeper blew up my door! I had to fix it with spruce, which doesn't match with the oak sadly. I also finished the library!"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Day 3:\nForgot to write!\nI made the library with one simple rule: Return your books before 2 log-out periods. I added my #Expedition1 book"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Day 4:\nI also forgot to write yesterday... My house was (almost!) blown up, Squirrel died due to that said blowing up, and also there's 2 foxes in the ocean. What is happening. I bred the foxes, and now they have fox babies!!! Squirrel also left the server. Sad :("
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "He's back. His computer is HORRIBLE and crashed again :sob: Good night."
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Day 7\n\nForgot to journal.\nAnyways!!! A creeper blew a hole in my house, fixed that, we lit up the neighborhood, and also tamed a blue bird, in memory of Rose from the Mainland. Rosemary the Bird... Beautiful."
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Day 7 Night:\n\nThe massacre has begun. My bird, Rosemary, died the same fate as Rose. A creeper. My wolf, Rose 2, died by a skeleton and their bow. Squirrel died too. This day will be a moment in history. RIP o7"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "\"A pet can be replaced, but this island can't.\"\n- Wish, Day 7's Night\n6:45 PM CST"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Day 8\n\nMade a tombstone for Rose 2 and Rosemary. Squirrel also gave me a fishing rod as a sorry for not saving them. It's really not his fault though...\nHeading off to an expedition with Squirrel! Wish me luck! :) Waiting till day.. We're at the island, though!"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "New land found!!!! \n-1723 62 -13\nFound a ruined portal, too!\n-1674.532 66.00000 43.037"
+						}
+						TAG_Compound: {1 Entries}
+						{
+							TAG_String('raw'): "Day 9\n\nSquirrel's journal got full! Somehow... He's sealing it up right now. "
+						}
+					}
+					TAG_Byte('resolved'): 1
+					TAG_String('author'): Wish13
+					TAG_Compound('title'): {1 Entries}
+					{
+						TAG_String('raw'): All in Due Time
+					}
+				}
+			}
+			TAG_String('id'): minecraft:written_book
+		}
